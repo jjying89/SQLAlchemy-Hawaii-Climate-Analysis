@@ -1,4 +1,4 @@
-# Sqlalchemy-Hawaii-Climate-Analysis
+# SQLAlchemy-Hawaii-Climate-Analysis
 
 Climate analysis of Hawaii using a combination of Python, SQLAlchemy, and Flask.
 
