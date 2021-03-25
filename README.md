@@ -2,9 +2,9 @@
 
 Climate analysis of Hawaii using a combination of Python, SQLAlchemy, and Flask.
 
-SQLAlchemy was used to read and manipulate the data.
+SQLAlchemy was used to read and manipulate the dataset.
 
-Flask was used to serve up the data in a web framework.
+Flask was used to serve the data in a web framework.
 
 ## Results
 
